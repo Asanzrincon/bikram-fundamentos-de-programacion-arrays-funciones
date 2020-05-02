@@ -1,6 +1,6 @@
 ![logotipo de The Bridge](https://user-images.githubusercontent.com/27650532/77754601-e8365180-702b-11ea-8bed-5bc14a43f869.png  "logotipo de The Bridge")
 
-# :shinto_shrine: :crossed_swords: Bikram #
+# :european_castle: :crossed_swords: Bikram #
 
 ## Introducción ##
 Un bikram es una combinación de 26 ejercicios de programación para perfeccionar la conexión entre el programador interior que llevas dentro y el alma del lenguaje de programación. Aprovecha los checkboxes en el enunciado para ir marcando que ejercicios llevas realizados.
@@ -9,7 +9,7 @@ Estas 26 pruebas cubren un espectro de dificultad incremental, dotada de tests q
 
 La soluciones a los bikrams deberán hacerse en **./index.js** y tienen que subirse a GitHub, además, deberá incluirse una captura de pantalla de los tests.
 
-En esta ocasión, el bikram se dividirá en :crossed_swords: Pair Programming :crossed_swords: y :shinto_shrine: Kata individual :shinto_shrine:
+En esta ocasión, el bikram se dividirá en :crossed_swords: Pair Programming :crossed_swords: y :european_castle: proyecto individual :european_castle:
 
 ## Iteraciones :crossed_swords: Pair Programming :crossed_swords: ##
 
@@ -47,7 +47,7 @@ En esta ocasión, el bikram se dividirá en :crossed_swords: Pair Programming :c
 
 - [ ] 14.- Crear la función **eliminarDuplicados** que acepte como argumento **un array** y devuelva **un array en el que se hayan eliminado los duplicados**
 
-## Iteraciones :shinto_shrine: Kata :shinto_shrine: ##
+## Iteraciones :european_castle: proyecto :european_castle: ##
 
 ### Arrays ###
 

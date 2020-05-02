@@ -211,7 +211,7 @@ describe("Pair Programming", ()=> {
 
     });
 });
-describe("Kata", () => {
+describe("proyecto", () => {
     // Ejercicios sobre arrays
     describe("Arrays", () => {
         //Declarar un array numérico negativo
