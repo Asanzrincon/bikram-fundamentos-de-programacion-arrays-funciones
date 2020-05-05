@@ -29,7 +29,7 @@ En esta ocasión, el bikram se dividirá en :crossed_swords: Pair Programming :c
 
 - [ ] 6.- Crea la función **potenciacion** que acepte como argumento **dos números** y devuelva **el resultado de elevar el primero(a) al segundo(b) (a^b)**
 
-- [ ] 7.- Crea la función **separarPalabras** que acepte como argumento **un string** y devuelva **un array con las palabras 'hola mundo' => [hola, mundo]**
+- [ ] 7.- Crea la función **separarPalabras** que acepte como argumento **un string** y devuelva **un array de palabras 'hola mundo' => [hola, mundo]**
 
 - [ ] 8.- Crea la función **repetirString** que acepte como argumento **un string y un número** y devuelva **un string que sea el resultado de concatenar el primer string el número dado de veces**
 
