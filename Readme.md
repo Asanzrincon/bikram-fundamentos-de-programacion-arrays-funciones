@@ -61,7 +61,7 @@ En esta ocasión, el bikram se dividirá en :crossed_swords: Pair Programming :c
 
 ### Funciones ###
 
-- [ ] 19.- Crea la función **multiplicacion** que acepte como argumento **dos números** y devuelva **el resultado de su suma**
+- [ ] 19.- Crea la función **multiplicacion** que acepte como argumento **dos números** y devuelva **el resultado de su multiplicación**
 
 - [ ] 20.- Crea la función **division** que acepte como argumento **dos números** y devuelva **el resultado de su division**
 
